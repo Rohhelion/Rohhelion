@@ -1,4 +1,5 @@
 <h1 align="center">Roy</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFEFD&random=false&width=435&lines=Hi+there+%2C+I'm+a+developer+.)](https://git.io/typing-svg)
 
 # About Me - Roy
 
