@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=30c5d8&random=false&width=435&lines=Hi+there+%2C+I'm+a+developer+.;I+also+play+guitar+;I'm+from+Kenya)](https://git.io/typing-svg)
 
-# About Me - Roy
+# About Me - Roy Kirorei
 
 Hello! I'm Roy, an aspiring full-stack developer passionate about software engineering and all things tech.
 
